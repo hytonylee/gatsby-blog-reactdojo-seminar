@@ -1,4 +1,5 @@
 ---
+path: "/first-post"
 title: this is my first post
 description: this is my first post description
 featureImage: "image.jpg"
